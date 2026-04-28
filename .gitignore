@@ -1,0 +1,9 @@
+_site/
+push.sh
+.DS_Store
+.jekyll-cache/
+.vscode/
+debug.log
+jekyll-preview.log
+jekyll-preview.err.log
+LOCAL_SETUP.md
