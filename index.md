@@ -35,6 +35,7 @@ author_profile: true
 - Agricultural remote sensing: crop mapping, sowing and harvest date detection, yield estimation.
 
 # News
+- **2026.05** Received the titles of Outstanding Graduate of Beijing Municipality and Outstanding Graduate of Beijing Normal University.
 - **2026.03** A [Paper](https://doi.org/10.1016/j.cj.2026.03.002) on estimation of crop sowing dates was accepted by *The Crop Journal* (JCR Q1 TOP).
 - **2026.03** [ClearSCD](https://doi.org/10.1016/j.isprsjprs.2024.04.013) has been selected as an ESI Highly Cited Paper.
 - **2026.02** A [Paper](https://doi.org/10.1016/j.isprsjprs.2026.02.039) on crop mapping models was accepted by *ISPRS Journal of Photogrammetry and Remote Sensing* and released with [[Code]](https://github.com/tianyu43/PEACE-Net).
@@ -102,6 +103,8 @@ author_profile: true
 - **2015.09-2019.06** B.Eng. in Remote Sensing Science and Technology, Shandong Agricultural University. 
 
 # Honors and Awards
+- **2026.05** Outstanding Graduate of Beijing Municipality.
+- **2026.05** Outstanding Graduate of Beijing Normal University.
 - **2025.01** Academic Innovation Award, Beijing Normal University.
 - **2023.11** First Prize, Graduate Academic Competition, Faculty of Geographical Science, Beijing Normal University.
 - **2022.05** Outstanding Graduate of Shandong Province.
