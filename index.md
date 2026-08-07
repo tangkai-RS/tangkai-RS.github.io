@@ -1,7 +1,7 @@
 ﻿---
 permalink: /
 title: "Tang Kai | Academic Homepage"
-excerpt: "Ph.D. candidate at Beijing Normal University working on remote sensing change detection, agricultural intelligence, and multimodal data fusion"
+excerpt: "Ph. D. from Beijing Normal University working on remote sensing change detection, agricultural intelligence, and multimodal data fusion"
 author_profile: true
 ---
 
@@ -10,8 +10,8 @@ author_profile: true
 # About Me
 <div class="hero-note">
   <p>
-    I am <strong>Tang Kai (唐凯)</strong>, a Ph.D. candidate in Cartography and Geographic Information Systems at
-    Beijing Normal University (2022.09-2026.06), advised by Prof.
+    I am <strong>Tang Kai (唐凯)</strong>, and I received my Ph. D. in Cartography and Geographic Information Systems from
+    Beijing Normal University in 2026, advised by Prof.
     <a href="https://geot.bnu.edu.cn/Public/htm/news/5/176.html">Jin Chen</a>.
     My research focuses on remote sensing image processing and applications, change detection, on-orbit computing,
     and artificial intelligence for Earth observation.
@@ -35,6 +35,8 @@ author_profile: true
 - Agricultural remote sensing: crop mapping, sowing and harvest date detection, yield estimation.
 
 # News
+- **2026.08** A first-author [Paper](https://www.sciencedirect.com/science/article/pii/S1569843226004267) on crop harvest monitoring was accepted by *International Journal of Applied Earth Observation and Geoinformation* (JCR Q1 TOP).
+- **2026.06** Received the Ph. D. degree from Beijing Normal University.
 - **2026.05** Received the titles of Outstanding Graduate of Beijing Municipality and Outstanding Graduate of Beijing Normal University.
 - **2026.03** A [Paper](https://doi.org/10.1016/j.cj.2026.03.002) on estimation of crop sowing dates was accepted by *The Crop Journal* (JCR Q1 TOP).
 - **2026.03** [ClearSCD](https://doi.org/10.1016/j.isprsjprs.2024.04.013) has been selected as an ESI Highly Cited Paper.
@@ -116,4 +118,3 @@ author_profile: true
 # Contact
 - **Email:** [tangkai@mail.bnu.edu.cn](mailto:tangkai@mail.bnu.edu.cn)
 - **Alternate email:** [a1362723810@gmail.com](mailto:a1362723810@gmail.com)
-
