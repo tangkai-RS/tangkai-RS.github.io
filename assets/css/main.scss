@@ -236,6 +236,12 @@ h1:before, .anchor:before {
   }
 }
 
+.author__avatar,
+.author__content {
+  text-align: center;
+  width: 100%;
+}
+
 .author__name {
   font-family: "Crimson Pro", "Noto Serif SC", "Source Han Serif SC", "Songti SC", serif;
   color: #123043;
@@ -256,10 +262,13 @@ h1:before, .anchor:before {
 }
 
 .author__bio {
+  display: block;
   font-family: "Crimson Pro", "Noto Serif SC", "Source Han Serif SC", "Songti SC", serif;
   color: #48606f;
   font-size: 1.08rem;
   line-height: 1.72;
+  margin-left: auto;
+  margin-right: auto;
   text-align: center;
 }
 
@@ -272,6 +281,7 @@ h1:before, .anchor:before {
 .author__urls-wrapper {
   cursor: default;
   font-family: "Crimson Pro", "Noto Serif SC", "Source Han Serif SC", "Songti SC", serif;
+  text-align: left;
 }
 
 .author__urls {
