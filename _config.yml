@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-title                    : "Tang Kai | Academic Homepage"
+title                    : "Tang Kai"
 description              : "Remote sensing, agricultural intelligence, change detection, data fusion, and GeoAI"
 repository               : "tangkai-RS/tangkai-RS.github.io"
 url                      : "https://tangkai-rs.github.io"
@@ -25,7 +25,7 @@ author:
   name             : "Tang Kai"
   name_cn          : "(唐凯)"
   avatar           : "images/profile-photo.jpg"
-  bio              : "Ph. D., Beijing Normal University"
+  bio              : "Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences"
   location         : "Beijing, China"
   employer         :
   pubmed           :

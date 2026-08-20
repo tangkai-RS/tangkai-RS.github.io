@@ -1,6 +1,6 @@
-﻿---
+---
 permalink: /
-title: "Tang Kai | Academic Homepage"
+title: "Tang Kai"
 excerpt: "Ph. D. from Beijing Normal University working on remote sensing change detection, agricultural intelligence, and multimodal data fusion"
 author_profile: true
 ---
@@ -10,11 +10,13 @@ author_profile: true
 # About Me
 <div class="hero-note">
   <p>
-    I am <strong>Tang Kai (唐凯)</strong>, and I received my Ph. D. in Cartography and Geographic Information Systems from
-    Beijing Normal University in 2026, advised by Prof.
+    I am <strong>Tang Kai (唐凯)</strong>, an Assistant Research Fellow at the
+    Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences.
+    I received my Ph. D. in Cartography and Geographic Information Systems from Beijing Normal University in 2026,
+    advised by Prof.
     <a href="https://geot.bnu.edu.cn/Public/htm/news/5/176.html">Jin Chen</a>.
-    My research focuses on remote sensing image processing and applications, change detection, on-orbit computing,
-    and artificial intelligence for Earth observation.
+    My research focuses on remote sensing image processing, change detection, on-orbit computing,
+    agricultural intelligence, and GeoAI.
   </p>
   <p>
     My research experience began with Remote Sensing Science and Technology during my undergraduate study, followed by
@@ -30,9 +32,11 @@ author_profile: true
 </div>
 
 # Research Interests
-- Change detection: high-resolution single/bi-temporal change detection, medium-resolution time-series change detection, and near-real-time anomaly discovery.
-- Data fusion: optical-SAR fusion, asynchronous time-series reconstruction, and multimodal Earth observation learning.
-- Agricultural remote sensing: crop mapping, sowing and harvest date detection, yield estimation.
+- Change detection
+- Optical-SAR fusion
+- Agricultural remote sensing
+- On-orbit computing
+- GeoAI
 
 # News
 - **2026.08** A first-author [Paper](https://www.sciencedirect.com/science/article/pii/S1569843226004267) on crop harvest monitoring was accepted by *International Journal of Applied Earth Observation and Geoinformation* (JCR Q1 TOP).
@@ -45,6 +49,16 @@ author_profile: true
 - **2026.01** [Shield](https://spj.science.org/doi/10.34133/remotesensing.0929) was accepted by *Journal of Remote Sensing* and released with [[Code]](https://github.com/tangkai-RS/Shield).
 
 # Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAG 2026</div><img src='images/JAG_NRT_Harvest.png' alt="Near-real-time harvest detection" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**A near-real-time and unsupervised framework for grain crop harvest detection using Sentinel-2 imagery: the reaped index (RI) and automated thresholding.**<br>
+*International Journal of Applied Earth Observation and Geoinformation*, 2026.<br>
+**Kai Tang**, Zeteng Li, Youzhi Zhang, Laigang Wang, Peng Yang, Bingwen Qiu, Xuehong Chen, Ruilin Chen, Jianlong Li, Jin Chen<sup>†</sup><br>
+[[Paper]](https://doi.org/10.1016/j.jag.2026.105510)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSE 2026</div><img src='images/RSE_AnytimeFormer.png' alt="AnytimeFormer" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -63,8 +77,6 @@ author_profile: true
 *Journal of Remote Sensing*, 2026.  
 **Kai Tang**, Qiao Wang, Fei Xu, Zhuoning Gu, Xuehong Chen, Jin Chen<sup>†</sup>  
 [[Paper]](https://spj.science.org/doi/10.34133/remotesensing.0929) [[Code]](https://github.com/tangkai-RS/Shield)
-
-*A lightweight framework designed for real-time disaster analysis and on-orbit deployment*.
 </div>
 </div>
 
@@ -98,6 +110,7 @@ author_profile: true
 </div>
 </div>
 
+<p class="publication-note"><sup>†</sup> Corresponding author.</p>
 
 # Education
 - **2022.09-2026.06** Ph.D. in Cartography and Geographic Information Systems, Beijing Normal University. 
