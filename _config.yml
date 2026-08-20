@@ -25,8 +25,8 @@ author:
   name             : "Tang Kai"
   name_cn          : "(唐凯)"
   avatar           : "images/profile-photo.jpg"
-  bio              : "Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences"
-  location         : "Beijing, China"
+  bio              : "Institute of Agricultural Resources and Regional Planning,<br>Chinese Academy of Agricultural Sciences, Beijing, China"
+  location         :
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com.hk/citations?user=cNylwdwAAAAJ&hl=zh-CN"

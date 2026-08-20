@@ -2,8 +2,12 @@
 permalink: /
 title: "Tang Kai"
 excerpt: "Ph. D. from Beijing Normal University working on remote sensing change detection, agricultural intelligence, and multimodal data fusion"
-author_profile: true
+author_profile: false
 ---
+
+<div class="home-profile">
+  {% include author-profile.html %}
+</div>
 
 <span class='anchor' id='about-me'></span>
 
